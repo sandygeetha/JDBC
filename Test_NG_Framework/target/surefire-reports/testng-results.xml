@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-31T12:39:26 IST" name="Suite" finished-at="2024-03-31T12:39:33 IST" duration-ms="7668">
+    <groups>
+    </groups>
+    <test started-at="2024-03-31T12:39:26 IST" name="Test" finished-at="2024-03-31T12:39:33 IST" duration-ms="7668">
+      <class name="Frame_work4.Runner_C">
+        <test-method is-config="true" signature="openapp()[pri:0, instance:Frame_work4.Runner_C@72e5a8e]" started-at="2024-03-31T12:39:30 IST" name="openapp" finished-at="2024-03-31T12:39:33 IST" duration-ms="2745" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapp -->
+        <test-method signature="testcae()[pri:0, instance:Frame_work4.Runner_C@72e5a8e]" started-at="2024-03-31T12:39:33 IST" name="testcae" finished-at="2024-03-31T12:39:33 IST" duration-ms="362" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcae -->
+        <test-method is-config="true" signature="closeapp()[pri:0, instance:Frame_work4.Runner_C@72e5a8e]" started-at="2024-03-31T12:39:33 IST" name="closeapp" finished-at="2024-03-31T12:39:33 IST" duration-ms="168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- Frame_work4.Runner_C -->
+      <class name="Frame_work4.Runner2">
+        <test-method is-config="true" signature="openapp()[pri:0, instance:Frame_work4.Runner2@5a56cdac]" started-at="2024-03-31T12:39:26 IST" name="openapp" finished-at="2024-03-31T12:39:29 IST" duration-ms="3648" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapp -->
+        <test-method signature="testcae()[pri:0, instance:Frame_work4.Runner2@5a56cdac]" started-at="2024-03-31T12:39:29 IST" name="testcae" finished-at="2024-03-31T12:39:30 IST" duration-ms="469" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcae -->
+        <test-method is-config="true" signature="closeapp()[pri:0, instance:Frame_work4.Runner2@5a56cdac]" started-at="2024-03-31T12:39:30 IST" name="closeapp" finished-at="2024-03-31T12:39:30 IST" duration-ms="210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- Frame_work4.Runner2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
